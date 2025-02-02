@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import './App.css'
-import ScoreCard from './Components/scorecard'
+import ScoreCard from './Components/ScoreCard'
 import toast, { Toaster } from 'react-hot-toast';
 
 function App() {
